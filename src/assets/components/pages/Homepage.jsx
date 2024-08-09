@@ -1,9 +1,9 @@
-import MyInput from "../common/MyInput"
 
-
+import Form from 'react-bootstrap/Form';
+import "../../css/homepage.css"
 const Homepage = () => {
   return (
-    <MyInput />
+    <div>hola </div>
   )
 }
 
